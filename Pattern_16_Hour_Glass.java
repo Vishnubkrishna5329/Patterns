@@ -2,7 +2,7 @@ public class Pattern_16_Hour_Glass {
     
     public static void main(String[] args) {
         
-        int n =5;
+        int n =4;
         int i=1;
 
         while(i<=n){
