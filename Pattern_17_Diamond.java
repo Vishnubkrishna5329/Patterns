@@ -45,5 +45,6 @@ public class Pattern_17_Diamond {
                 System.out.println();
                 i++;
         }
+        sc.close();
     }
 }

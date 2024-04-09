@@ -26,6 +26,6 @@ public class Pattern_18_Pascals_Triangle {
             System.out.println();
             i++;
         }
-
+        sc.close();
     }
 }

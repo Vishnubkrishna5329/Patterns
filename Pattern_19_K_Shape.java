@@ -27,5 +27,6 @@ public class Pattern_19_K_Shape {
 			  i++;
 			  System.out.println();
 		  }	 
+		  sc.close();
     }
 }
